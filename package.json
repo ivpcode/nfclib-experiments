@@ -1,0 +1,22 @@
+{
+  "name": "nfclib-experiments",
+  "version": "1.0.0",
+  "description": "Nfclib sample code &amp; experiemnts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivpcode/nfclib-experiments.git"
+  },
+  "author": "Prez Ivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivpcode/nfclib-experiments/issues"
+  },
+  "homepage": "https://github.com/ivpcode/nfclib-experiments#readme",
+  "dependencies": {
+    "nfc-pcsc": "^0.8.1"
+  }
+}
