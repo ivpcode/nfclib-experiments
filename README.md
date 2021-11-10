@@ -1,6 +1,8 @@
 # nfclib-experiments
 Nfclib sample code &amp; experiemnts
 
+https://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef
+
 https://github.com/peacepenguin/libnfc-unofficialbuilds
 
 https://www.dummies.com/consumer-electronics/nfc-data-exchange-format-ndef/
